@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center" style"border-radius:15px">
+  <img src="https://media.discordapp.net/attachments/924167135675170826/936514324774649877/banner.gif" style"width: 100%;border-radius:15px">
+</div>
 
-<!--
-**Alanwalker79/Alanwalker79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">I am Alan. Learning HTML + CSS + JAVASCRIPT. Aim in Life = Software Developer</div>  
+  
 
-Here are some ideas to get you started:
+## [Join My Discord Server](https://discord.gg/UK2cEPasaa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+## If You Want To Support Me See Below :)
+
+> My Bot
+[Soundwave](https://discord.com/api/oauth2/authorize?client_id=780358959961866250&permissions=8&scope=bot%20applications.commands)
+
+## Please Be My Friend And Help Me To Learn Coding :)
