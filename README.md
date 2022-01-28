@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://media.discordapp.net/attachments/924167135675170826/936514324774649877/banner.gif" style"width: 100%;border-radius:15px">
+  <img src="https://media.discordapp.net/attachments/924167135675170826/936514324774649877/banner.png" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I am Alan. Learning HTML + CSS + JAVASCRIPT. Aim in Life = Software Developer</div>  
